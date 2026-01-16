@@ -51,11 +51,11 @@ running vm
 
 ## USED SOURCES
 
-[AMD Vanilla](https://github.com/AMD-OSX/AMD_Vanilla#) - Patch for AMD CPU
+[AMD Vanilla](https://github.com/AMD-OSX/AMD_Vanilla#) - AMD Cpu patch
 
-[Dortania](https://dortania.github.io/OpenCore-Install-Guide/) - Made the OpenCore guide
+[Dortania](https://dortania.github.io/OpenCore-Install-Guide/) - Install guide for opencore
 
-[Acidanthera](https://github.com/acidanthera) - OpenCore Bootloader | AppleALC | Lilu | VirtualSMC | WhateverGreen | etc
+[Acidanthera](https://github.com/acidanthera) - OpenCore Bootloader kexts
 
 
 
