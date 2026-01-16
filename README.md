@@ -58,6 +58,8 @@ running vm
 [Acidanthera](https://github.com/acidanthera) - OpenCore Bootloader kexts
 
 
+If you like to support me than hit the buymeacoffee button :)
 
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/felhasznalonev)
 
 
